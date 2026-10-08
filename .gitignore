@@ -1,0 +1,7 @@
+*.tsv
+*.csv
+.ipynb_checkpoints
+.Rproj
+.Rproj.user
+.python
+11_indexing
